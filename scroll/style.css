@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&display=swap');
+
+* {margin: 0; padding: 0;}
+#info {
+    position: fixed;
+}
+#tree {
+    position: fixed;
+    left: 50%; top: 50%;
+    transform: translate(-50%,-50%);
+    margin: 0 auto;
+}
+.slide {
+    position: fixed;
+    left: 50%; top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#spring h2 {
+    position: relative;
+    font-size: 50vh;
+    font-family: 'Playfair Display', serif;
+    color: #FDCEDF;
+    z-index: 10;
+}
+#slide2 {
+    
+}
+#slide2 img {}
+
+.flower {
+    position: fixed;
+    left: 50%; top: 50%;
+
+}
+.f1 {
+    left: 29vh; top: 4vh;
+    width: 70px;
+}
+.f2 {
+    left: 10vh; top: 17vh;
+    width: 70px;
+}
+.f3 {
+    left: 50vh; top: 18vh;
+    width: 80px;
+}
+.f4 {
+    left: 17vh; top: 0vh;
+    width: 80px;
+}
+.f5 {
+    left: 5vh; top: 30vh;
+    width: 70px;
+}
+.f6 {
+    left: 44vh; top: 5vh;
+    width: 70px;
+}
+.f7 {
+    left: 23vh; top: 14vh;
+    width: 80px;
+}
+.f8 {
+    left: 56vh; top: 24vh;
+    width: 80px;
+}
+.f9 {
+    left: 34vh; top: 21vh;
+    width: 70px;
+}
+.f10 {
+    left: 24vh; top: 27vh;
+    width: 70px;
+}
+.f11 {
+    left: 38vh; top: 28vh;
+    width: 80px;
+}
+.f12 {
+    left: 36vh; top: -1vh;
+    width: 80px;
+}
+.flower img {
+    width: 100%;
+}
